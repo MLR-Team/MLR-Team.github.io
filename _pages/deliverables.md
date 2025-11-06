@@ -7,7 +7,8 @@ subtitle: Deliverables
 
 <h2>Project Deliverables</h2>
 
-<p>You can view our deliverable directly below:</p>
+<p> Below is the report for <b>WP4 of Project RODEO</b> on year 2025 about the constituion of the <b>dataset for visual perception (CT-scan vertebral and intra-vertebral annotation)</b>.
+You can view our deliverable directly below:</p>
 
 <div style="text-align: center; margin-top: 20px;">
   <iframe 
